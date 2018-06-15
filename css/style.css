@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+
+     font-family: 'Indie Flower', cursive;
+     background: #ffffff url('../images/Frogwallpaper.jpg');
+     background-size: cover;
+	 background-repeat: no-repeat;
+	 color: white;
+}
+h1 {
+	color: White;
+	font-size: 300%;
+	margin-top: 60px;
+	margin-bottom: -10px;
+}
+#score-container {
+	font-size: 200%;
+	color: limeGreen;
+}
